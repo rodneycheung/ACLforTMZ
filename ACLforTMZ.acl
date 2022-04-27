@@ -1,15 +1,13 @@
 #**********************************************************************
-# 12.28
-# 2020年12月28日20:29:54
-# 转载需要注明版权和来源
-# 全部规则来自GFWList 没有白名单
-#
-# 更新记录 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/more/New.md
-# 下载地址 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
-#
+# 26 April 2022
+# Modified from ACL4SSR
+# Original file from https://github.com/ACL4SSR/ACL4SSR/blob/master/Acl/fullgfwlist.acl
+# The domains that are blocked in Russia are not as many as in China, thus gfwlist is too huge to use in Russia
+# For example, google is not blocked yet in Russia, yet it's included in gfwlist
+# This file only includes domains that are blocked in Russia
 #**********************************************************************
 
-[bypass_all]
+### [bypass_all]
 ### 默认直连 自己可以自定义
 ### [outbound_block_list] 禁止访问列表
 ### [bypass_list] 直连列表 禁止访问列表
@@ -79,3 +77,5 @@
 # Others
 (^|\.)nicovideo\.jp$
 (^|\.)bbc\.com$
+(^|\.)euronews\.com$
+(^|\.)rfi\.fr$
