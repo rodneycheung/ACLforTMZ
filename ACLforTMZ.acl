@@ -50,8 +50,8 @@
 
 # LinkedIn
 (^|\.)bizographics\.com$
-(^|\.)l-0005.dc-msedge\.net$
-(^|\.)l-0005.l-msedge\.net$
+(^|\.)l-0005\.dc-msedge\.net$
+(^|\.)l-0005\.l-msedge\.net$
 (^|\.)licdn\.cn$
 (^|\.)licdn\.com$
 (^|\.)linkedin\.at$
@@ -79,4 +79,4 @@
 (^|\.)bbc\.com$
 (^|\.)euronews\.com$
 (^|\.)rfi\.fr$
-(^|\.)yt3.ggpht\.com&
+(^|\.)yt3\.ggpht\.com&
