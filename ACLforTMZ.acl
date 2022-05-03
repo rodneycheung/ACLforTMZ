@@ -7,7 +7,7 @@
 # This file only includes domains that are blocked in Russia
 #**********************************************************************
 
-### [bypass_all]
+[bypass_all]
 ### 默认直连 自己可以自定义
 ### [outbound_block_list] 禁止访问列表
 ### [bypass_list] 直连列表 禁止访问列表
@@ -79,4 +79,4 @@
 (^|\.)bbc\.com$
 (^|\.)euronews\.com$
 (^|\.)rfi\.fr$
-(^|\.)yt3\.ggpht\.com&
+(^|\.)ggpht\.com&
