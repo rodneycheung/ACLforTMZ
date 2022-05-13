@@ -74,9 +74,17 @@
 (^|\.)twitterstat\.us$
 (^|\.)twttr\.com$
 
+# BBC
+(^|\.)bbc\.com$
+(^|\.)bbc\.co\.uk$
+(^|\.)bbci\.co\.uk$
+(^|\.)bbcmedia\.co\.uk$
+(^|\.)bbc\.net\.uk$
+(^|\.)bbcpersian\.com$
+(^|\.)bbctvapps\.co\.uk$
+
 # Others
 (^|\.)nicovideo\.jp$
-(^|\.)bbc\.com$
 (^|\.)euronews\.com$
 (^|\.)rfi\.fr$
 (^|\.)ggpht\.com&
