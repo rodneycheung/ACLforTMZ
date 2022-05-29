@@ -77,7 +77,9 @@ var domainsUsingProxy = {
   "rfi.fr": 1,
   "yt3.ggpht.com": 1,
   "dw.com": 1,
-  "pornhubpremium.com": 1
+  "pornhubpremium.com": 1,
+  "news.google.com": 1,
+  "play.google.com": 1
 };
 
 var localTlds = {
