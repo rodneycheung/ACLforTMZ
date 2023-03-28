@@ -71,15 +71,36 @@ var domainsUsingProxy = {
   "bbcpersian.com": 1,
   "bbctvapps.co.uk": 1,
 
+/* JAV */
+  "chaturbate.com": 1,
+  "javfull.net": 1,
+  "javhub.net": 1,
+  "javmost.cx": 1,
+
 /* Others */
-  "nicovideo.jp": 1,
-  "euronews.com": 1,
-  "rfi.fr": 1,
-  "yt3.ggpht.com": 1,
+  "abc.net.au": 1,
+  "bp.blogspot.com": 1,
   "dw.com": 1,
-  "pornhubpremium.com": 1,
+  "euronews.com": 1,
+  "gagadget.com": 1,
+  "intel.com": 1,
+  "liveuamap.com": 1,
+  "meduza.io": 1,
   "news.google.com": 1,
-  "play.google.com": 1
+  "nicovideo.jp": 1,
+  "openai.com": 1,
+  "play.google.com": 1,
+  "prnt.sc": 1,
+  "quora.com": 1,
+  "rfi.fr": 1,
+  "rutracker.org": 1,
+  "svoboda.org": 1,
+  "telegraph.co.uk": 1,
+  "thepiratebay.org": 1,
+  "voanews.com": 1,
+  "weather.com": 1,
+  "yt3.ggpht.com": 1,
+  "zhimg.com": 1
 };
 
 var localTlds = {
